@@ -1,5 +1,5 @@
 # ChinookEcoEvoSimulationModel
-The code in this repository allows reconstruction of the results published in Ohlberger et al. 2019 PNAS.
+The code in this repository allows reconstruction of the results published in Ohlberger et al. 2019.
 
 Ohlberger J, Schindler DE, Ward EJ, Walsworth TE, Essington TE. Resurgence of an apex marine predator and the decline in prey body size. Proc National Acad Sci. 2019; 116(52):26682–9. 
 
