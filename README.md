@@ -10,4 +10,4 @@ The repository consists of three files:
 2. _ChinookEcoEvoParameters.R_ contains the input parameters to the model
 3. _ChinookEcoEvoRun.R_ sources the other two files to run the analyses
 
-Simply open the file _ChinookEcoEvoRun.R_ and run the code. These simulations do not require data input, though parameters were based on literature values, as described in Ohlberger et al. 2019. The analyses were run in R (v.3.5.1). Running the simulations using original parameter values may take several hours to days, depending on the machine/cluster.
+To run the simulations, open the file _ChinookEcoEvoRun.R_ and run the code. These simulations do not require data input, though parameters were based on literature values, as described in Ohlberger et al. 2019. The analyses were run in R (v.3.5.1). Running the simulations using original parameter values may take several hours to days, depending on the machine/cluster.
